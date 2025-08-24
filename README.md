@@ -1,4 +1,4 @@
-# Cs-250-snhu
+# Learning the Agile Method
 
 # Interpreting User Needs and the Role of User Stories
 I interpret user needs by actively engaging with the end users listening carefully to their challenges and goals through interviews, surveys, or direct feedback. This helps me distill the requirements into tangible, actionable insights. Creating user stories transforms these insights into structured narratives that specify who the user is, what they need, and why it matters. This practice not only clarifies the intended functionality but also serves as a constant reminder of the end user's perspective throughout the development process.
